@@ -5,11 +5,12 @@ Hi! I'm Bruno Marino 👋
 - 😊 My intention is post my projects and tests here accordingly I'm learning 
 - Please feel free to follow me!
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/bmarino01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmarino01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmarino01&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div style="display: inline_block"><br>
 
 
 <!--
