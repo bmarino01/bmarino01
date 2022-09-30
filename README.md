@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi! I'm Bruno Marino 👋
+
+- 💻 I’m currently working as Infrastructure and Project Analyst
+- 📚 But I’m learning slightly regarding development, such as HTML/CSS/Javascript/Java/Pyhton.. After all.. Knowledge no one lose.
+- 😊 My intention is post my projects and tests here accordingly I'm learning 
+- Please feel free to follow me!
 
 <div align="center">
   <a href="https://github.com/bmarino01">
